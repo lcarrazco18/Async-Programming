@@ -12,10 +12,13 @@ function loadData() {
             console.log(this.responseText);
         }
     }
-}
 
-
-// HTTP Statuses
+    xhr.send();
+    
+    // HTTP Statuses
     // 200: "OK"
     // 403: "Forbidden"
     // 404: "Not Found"
+}
+
+

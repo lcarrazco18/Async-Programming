@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "company": "123 Designs",
+        "phone": "444-555-6666"
+    },
+    {
+        "id": 2,
+        "name": "Harry Mill",
+        "company": "High Productions",
+        "phone": "937-147-0283"
+    },
+    {
+        "id": 3,
+        "name": "Kevin Smith",
+        "company": "Good Vibes",
+        "phone": "593-389-2937"
+    }
+]
